@@ -1,0 +1,2 @@
+Este projeto é código original de infraestrutura educacional.
+Não contém cópias de drivers proprietários Intel, AMD ou NVIDIA.
